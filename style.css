@@ -60,12 +60,7 @@ address a {
 .fa-brands {
     font-size: 30px;
 }
-/* .fa-facebook {
-    color: #316FF6;
-}
-.fa-linkedin {
-    color: #316FF6;
-} */
+
 
 .nav-list {
     display: flex;
@@ -239,7 +234,7 @@ footer {
 
 textarea {
     resize: none;
-    /* width: 800px; */
+   
     height: 300px;
 }
 
