@@ -11,4 +11,4 @@
 - CSS Flex
 - JavaScript
 
-[CodeCraft Studios Live site][http://handlebarsjs.com/](https://fahimhossain1085.github.io/web-application-design-project/)
+[Build data and AI skills with DataCamp](https://www.datacamp.com)
