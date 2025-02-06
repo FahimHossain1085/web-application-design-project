@@ -11,4 +11,4 @@
 - CSS Flex
 - JavaScript
 
-[Build data and AI skills with DataCamp](https://www.datacamp.com)
+[CodeCraft Studios Live site](https://fahimhossain1085.github.io/web-application-design-project/)
