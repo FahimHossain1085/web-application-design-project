@@ -11,4 +11,4 @@
 - CSS Flex
 - JavaScript
 
-#[CodeCraft Studios Live Site ]([http://handlebarsjs.com/](https://fahimhossain1085.github.io/web-application-design-project/))
+[CodeCraft Studios Live Site]([http://handlebarsjs.com/](https://fahimhossain1085.github.io/web-application-design-project/))
